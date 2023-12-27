@@ -1,0 +1,41 @@
+@import "../fonts/Baloo2/Baloo2-Regular.ttf";
+@import "../fonts/Baloo2/Baloo2-Medium.ttf";
+@import "../fonts/Baloo2/Baloo2-Bold.ttf";
+@import "../fonts/Baloo2/Baloo2-ExtraBold.ttf";
+
+@font-face {
+  font-family: tykon;
+  src: url("../fonts/tykon.woff2") format("woff2"),
+    url("../fonts/tykon.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* BALOO 2 fonts */
+@font-face {
+  font-family: "Baloo2-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Baloo2/Baloo2-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Baloo2-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/Baloo2/Baloo2-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Baloo2-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Baloo2/Baloo2-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Baloo2-ExtraBold";
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/Baloo2/Baloo2-ExtraBold.ttf") format("truetype");
+}

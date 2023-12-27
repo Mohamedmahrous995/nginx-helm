@@ -1,0 +1,136 @@
+/* Font family */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+strong {
+  font-family: "Baloo2-Bold";
+}
+
+/* Font sizes */
+
+h1 {
+  font-size: 25px;
+  line-height: 30px;
+}
+h2 {
+  font-size: 20px;
+  line-height: 24px;
+}
+h3 {
+  font-size: 17px;
+  line-height: 23px;
+}
+h4 {
+  font-size: 16px;
+  line-height: 22px;
+}
+h5 {
+  font-size: 15px;
+  line-height: 19px;
+}
+
+body,
+p {
+  font-family: "Baloo2-Regular";
+  font-size: 16px;
+  line-height: 20px;
+}
+.text-regular {
+  font-family: "Baloo2-Regular";
+  font-size: 16px;
+  line-height: 22px;
+}
+.text-semibold {
+  font-family: "Baloo2-Medium";
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.text-bold {
+  font-family: "Baloo2-Bold";
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.title-bold {
+  font-family: "Baloo2-Bold";
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.title-h1-bold {
+  font-family: "Baloo2-Bold";
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.title-h2-bold {
+  font-family: "Baloo2-Bold";
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.text-regular-14 {
+  font-family: "Baloo2-Regular";
+  font-size: 14px;
+  line-height: 19px;
+}
+
+.green {
+  color: var(--tdp-link-color);
+}
+.dark {
+  color: var(--tdb-text-color-dark);
+}
+.gray {
+  color: var(--tdb-text-color-gray);
+}
+.export {
+  color: var(--tdp-secondary);
+}
+.text-regular-12 {
+  font-family: "Baloo2-Regular";
+  font-size: 12px;
+  line-height: 16px;
+}
+.gray-lighter {
+  color: var(--tdb-text-color-gray-lighter);
+}
+.text-os-semibold-16 {
+  font-family: "Baloo2-Medium";
+  font-size: 16px;
+  line-height: 22px;
+}
+.default-base {
+  color: var(--tdp-dark);
+}
+.text-bold-17 {
+  font-family: "Baloo2-Bold";
+  font-size: 17px;
+  line-height: 23px;
+}
+.underline {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.text-semibold-12 {
+  font-family: "Baloo2-Medium";
+  font-size: 12px;
+  line-height: 16px;
+}
+.text-bold-20 {
+  font-family: "Baloo2-Bold";
+  font-size: 20px;
+  line-height: 27.24px;
+}
+.text-extra-large {
+  font-size: 32px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,36 @@
+.text-info {
+  color: var(--tdp-primary-light);
+}
+.text-success {
+  color: var(--tdp-primary);
+}
+.text-warning {
+  color: var(--tdp-warning-dark);
+}
+.text-danger {
+  color: var(--tdp-danger-dark);
+}
+
+a {
+  color: var(--tdp-link-color);
+}
+
+a:hover {
+  color: var(--tdp-primary);
+  text-decoration: underline;
+}
+
+a.breadcrumb-link,
+a.breadcrumb-link:hover {
+  color: var(--tdp-text-color);
+  text-decoration: underline;
+  font-family: "Baloo2-Medium";
+}
+
+.baloo2-medium {
+  font-family: "Baloo2-Medium";
+}
+
+.baloo2-regular {
+  font-family: "Baloo2-regular";
+}

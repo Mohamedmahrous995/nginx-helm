@@ -1,0 +1,6 @@
+.login-form-wrapper {
+  width: 33%;
+  border-radius: var(--tdp-border-radius);
+  background: white;
+  box-shadow: var(--td-shadow-small);
+}
